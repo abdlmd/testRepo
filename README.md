@@ -1,1 +1,1 @@
-#This is my testRepo initilaized form IDEA
+# This is my testRepo initilaized form IntelliJ IDEA
